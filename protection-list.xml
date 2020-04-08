@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<protectedUsers>
+		<user>
+			<nickname>Patrick L.</nickname>
+			<tsuid>WCmGfgmbpnGGMMPjz/HVvORFgoo=</tsuid>
+		</user>
+		<serverGroups>
+			<tssg>172</tssg> <!-- HA -->
+		</serverGroups>
+	</protectedUsers>
+</plugin>
